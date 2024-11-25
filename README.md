@@ -7,6 +7,7 @@ It is a two channel emg amplifier and a two channel functional electrical stimul
 These are realized using the Eagle version 7 and produced and assembled by EuroCircuits.
 The circuits are tested and functional with some minor bug fixes. 
 
+Bug fixes are available upon request
 
 
 This part of the LM project has been supported by  The Italian Ministry of Health - Ricerca Corrente, the Promobilia Foundation (Sweden) grant no 16066
